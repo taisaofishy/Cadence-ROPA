@@ -12,7 +12,7 @@ _Name of the Team where the processing occurs._
 _Name of the task for which the processing occurs._
 
 ## Title of System
-_Name of the system that is associated with the collection, processing, storing, or transmitting (i.e., Haystake, Splunk, etc.) of the process_
+_Name of the system that is associated with the collection, processing, storing, or transmitting (i.e., Haystake, Splunk, etc.) of the process._
 
 ## Data Subject Category
 _What Data Subjects are affected by this process?_
@@ -32,7 +32,7 @@ _For example: SQL Database Clusters, specific file locations, AWS S3 etc._
 ## Who has access to the data?
 
 ## How are users accessing the data?
-_For example: Okta, 2FA, Credentials, etc. _
+_For example: Okta, 2FA, Credentials, etc._
 
 ## How long is the data retained?
 _If the data retained indefinitely? Does indefinitely mean for the life of the account and then deleted, does the data get deleted except for the logs in the Audit Logs system?_
