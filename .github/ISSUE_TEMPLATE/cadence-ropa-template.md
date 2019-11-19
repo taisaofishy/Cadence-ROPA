@@ -33,6 +33,7 @@ _How is the data being ingested into the GitHub environment (e.g. API Calls, Use
 _For example: SQL Database Clusters, name of specific file locations, AWS S3 etc._
 
 ## Who has access to the data?
+_For example: Anyone with looker, Anyone with access to Powershell, Specifc Team Names, Specific Group Names, etc._
 
 ## How are users accessing the data?
 _For example: Okta, 2FA, Credentials, etc._
