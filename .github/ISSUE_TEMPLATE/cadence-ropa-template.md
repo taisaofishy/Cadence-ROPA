@@ -4,7 +4,7 @@ about: This template will be used to verify information collected during the Cad
   Deep Dive
 title: ''
 labels: ''
-assignees: taisaofishy
+assignees: taisaofishy, kevin-cadence
 
 ---
 
